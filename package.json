@@ -1,0 +1,27 @@
+{
+  "name": "sellfast-refactor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "jest": "^25.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Seeyja/zsi-market/tree/restRefactor"
+  },
+  "author": "Norbert Szpakowski",
+  "license": "ISC"
+}
