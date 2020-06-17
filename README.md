@@ -1,4 +1,4 @@
-# zsi_restapi
+# zsi_restapi ( abandoned project )
 
 New version of backend for www.sellfast.pl
 
